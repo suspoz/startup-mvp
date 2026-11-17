@@ -1,3 +1,1 @@
-Primera linea
-# Color principal: Azul
-corporativo.
+# Color principal: Azul corporativo.
